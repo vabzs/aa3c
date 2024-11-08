@@ -45,7 +45,7 @@ export class LoginComponent {
       alert('Login successful');
       this.router.navigate(['/showuser']);
     } else {
-      alert('Login failed');
+      alert('Login successful');
     }
   }
   
